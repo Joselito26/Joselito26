@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joselito26
 - 👀 I’m interested in  plein de choses autour du develloppement, je débute!!
-    - 🌱 I’m currently learning  Github, JavaScript
+- 🌱 I’m currently learning  Github, JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
